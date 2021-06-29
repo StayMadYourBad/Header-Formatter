@@ -1,0 +1,14 @@
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cache-control: max-age=0
+cookie: _ga=GA1.2.915954658.1624920289; _gid=GA1.2.1452283007.1624920289; __stripe_mid=a8ccdfd3-165c-4dd6-89ae-9f1b19fdcce15ebbe6; authorization=jXnpiPZk9yEtYj3cZypqn; _gat=1; __stripe_sid=60f63336-5e4d-4394-902f-00f05897f9a074f6fe
+referer: https://cookvault.metalabs.group/dashboard
+sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"
+sec-ch-ua-mobile: ?0
+sec-fetch-dest: document
+sec-fetch-mode: navigate
+sec-fetch-site: same-origin
+sec-fetch-user: ?1
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
